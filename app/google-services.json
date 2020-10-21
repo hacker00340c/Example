@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "562152450128",
+    "firebase_url": "https://atl-idea-sharing.firebaseio.com",
+    "project_id": "atl-idea-sharing",
+    "storage_bucket": "atl-idea-sharing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562152450128:android:aa085a8fd25dadcde84955",
+        "android_client_info": {
+          "package_name": "com.example.example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562152450128-kmu7gikkc2gkapdrjcmd8qhk8kntqg9a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.example",
+            "certificate_hash": "a196da409b9a7b22c48fa321c9a6bc81348e8bc9"
+          }
+        },
+        {
+          "client_id": "562152450128-u6dbh5fc8tcqrkojobqq0bor7hhq75h0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGvOjoIUXuBRj5ylpT6KswuJIpkjQQ6Z4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562152450128-u6dbh5fc8tcqrkojobqq0bor7hhq75h0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
